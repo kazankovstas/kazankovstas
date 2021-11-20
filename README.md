@@ -1,4 +1,9 @@
-### Hi there 👋
+# Hi i'm Stanislav 👋
+## Beginner Front-End developer from Russia.
+### I work in technology stack: HTML, CSS, JavaScript.
+### Contact with me:
+- 📫 kazankovstas.jb@gmail.com
+- 💬 Telegram: @kazankovstanislav
 
 <!--
 **kazankovstas/kazankovstas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
