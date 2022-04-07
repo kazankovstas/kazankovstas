@@ -2,7 +2,7 @@
 
 #### beginner Frontend Developer
 
-![Beginner Frontend Developer](https://1agenstvo.ru/800/600/https/pbs.twimg.com/media/D80QkXBXYAE0tu1.png)
+![Beginner Frontend Developer](https://wampi.ru/image/RJECNlI)
 
 ![Profile views](https://gpvc.arturio.dev/kazankovstas)
 
