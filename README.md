@@ -2,7 +2,7 @@
 
 #### beginner Frontend Developer
 
-![Beginner Frontend Developer](https://wampi.ru/image/RJECNlI)
+![Beginner Frontend Developer](https://ia.wampi.ru/2022/04/07/front-end-compressor-compressor.png)
 
 ![Profile views](https://gpvc.arturio.dev/kazankovstas)
 
