@@ -4,12 +4,11 @@
 
 ### Connect with me:
 
-<a href="mailto:kazankovstas.jb@gmail.com" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/gmail.svg"></a>
-<a href="https://t.me/kazankovstanislav" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/telegram.svg"></a>
-<a href="https://discordapp.com/users/784745746062508075/" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/discord.svg"></a>
+<a href="mailto:kazankovstas.jb@gmail.com" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/gmail.svg"></a>{:target="\_blank"}
+<a href="https://t.me/kazankovstanislav" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/telegram.svg"></a>{:target="\_blank"}
+<a href="https://discordapp.com/users/784745746062508075/" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/discord.svg"></a>{:target="\_blank"}
 
 [<img align="left" alt="Discord" width="26px" src="icons/telegram.svg">](https://t.me/kazankovstanislav){:target="\_blank"}
-<a href="https://t.me/kazankovstanislav" {:target="\_blank"}><img align="left" alt="Discord" width="26px" src="icons/telegram.svg"></a>
 <br />
 
 ### Languages and Tools
