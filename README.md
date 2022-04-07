@@ -16,8 +16,8 @@ I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy
 
 <br />
 <br />
-
----
+<br />
+<br />
 
 ### Languages and Tools
 
