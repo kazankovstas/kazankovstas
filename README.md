@@ -4,11 +4,9 @@
 
 ### Connect with me:
 
-<a href="mailto:kazankovstas.jb@gmail.com"><img align="left" alt="Discord" width="26px" src="icons/gmail.svg"></a>
-<a href="https://t.me/kazankovstanislav"><img align="left" alt="Discord" width="26px" src="icons/telegram.svg"></a>
-<a href="https://discordapp.com/users/784745746062508075/"><img align="left" alt="Discord" width="26px" src="icons/discord.svg"></a>
-
-[<img align="left" alt="Сайт портфолио" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [website]
+<a href="mailto:kazankovstas.jb@gmail.com" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/gmail.svg"></a>
+<a href="https://t.me/kazankovstanislav" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/telegram.svg"></a>
+<a href="https://discordapp.com/users/784745746062508075/" target="_blank"><img align="left" alt="Discord" width="26px" src="icons/discord.svg"></a>
 
 <br />
 
@@ -23,8 +21,6 @@
 
 <br />
 <br />
-
-[website]: https://kazankovstas.github.io/russian-travel/
 
 Here are some ideas to get you started:
 
