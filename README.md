@@ -6,7 +6,8 @@
 
 - 📫 kazankovstas.jb@gmail.com
 - 💬 Telegram: https://t.me/kazankovstanislav
-- <a href="https://t.me/kazankovstanislav"><img align="left" alt="Discord" width="26px" src="icons/discord.svg"></a>
+  <a href="mailto:kazankovstas.jb@gmail.com"><img align="left" alt="Discord" width="26px" src="icons/gmail.svg"></a>
+  <a href="https://t.me/kazankovstanislav"><img align="left" alt="Discord" width="26px" src="icons/discord.svg"></a>
 
 [<img align="left" alt="Сайт портфолио" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />] [website]
 
