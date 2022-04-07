@@ -24,19 +24,28 @@
 <br />
 <br />
 
-Here are some ideas to get you started:
+### Hi there 👋, I'm Stanislav
+#### Frontend Developer
+![Frontend Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-- Пункт первый
-- Пункт второй
-- Пункт третий
-- Пункт четвертый
-- Пункт Пятый
+Skills: HTML / CSS / JS
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kazankovstas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](asd)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/kazankovstanislav)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/784745746062508075/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:kazankovstas.jb@gmail.com)  
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kazankovstas)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kazankovstas)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=kazankovstas&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=kazankovstas)  
+
+![GitHub metrics](https://metrics.lecoq.io/kazankovstas)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kazankovstas)  
+
+![Profile views](https://gpvc.arturio.dev/kazankovstas)  
