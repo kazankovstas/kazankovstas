@@ -1,10 +1,11 @@
-### Hi there 👋, I'm Stanislav
-
+![Profile views](https://gpvc.arturio.dev/kazankovstas)
 ![Beginner Frontend Developer](https://ia.wampi.ru/2022/04/07/front-end-compressor-compressor.png)
+
+# Stanislav Kazankov
 
 I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy. I studied HTML and CSS. Currently studying JavaScript.
 
-![Profile views](https://gpvc.arturio.dev/kazankovstas)
+---
 
 ### Connect with me:
 
@@ -15,6 +16,8 @@ I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy
 
 <br />
 <br />
+
+---
 
 ### Languages and Tools
 
@@ -31,6 +34,8 @@ I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy
 
 <br />
 <br />
+
+---
 
 ![GitHub metrics](https://metrics.lecoq.io/kazankovstas)
 
