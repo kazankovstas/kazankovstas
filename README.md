@@ -8,7 +8,7 @@ I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy
 
 ### Connect with me:
 
-[<img src='icons/github.svg' alt='github' height='40'>](https://github.com/kazankovstas) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kazankovstas.github.io/russian-travel/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/kazankovstanislav) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/784745746062508075/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](mailto:kazankovstas.jb@gmail.com)
+[<img src='icons/github.svg' alt='github' height='40'>](https://github.com/kazankovstas) [<img src='icons/telegram.svg' alt='telegram' height='40'>](https://t.me/kazankovstanislav) [<img src='icons/discord.svg' alt='discord' height='40'>](https://discordapp.com/users/784745746062508075/) [<img src='icons/mail.svg' alt='gmail' height='40'>](mailto:kazankovstas.jb@gmail.com) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://kazankovstas.github.io/russian-travel/)
 
 ### Languages and Tools
 
