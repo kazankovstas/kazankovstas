@@ -12,7 +12,6 @@ I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy
 [<img align="left" src='icons/mail.svg' alt='gmail' height='32'>](mailto:kazankovstas.jb@gmail.com)
 [<img align="left" src='icons/telegram.svg' alt='telegram' height='32'>](https://t.me/kazankovstanislav)
 [<img align="left" src='icons/discord.svg' alt='discord' height='32'>](https://discordapp.com/users/784745746062508075/)
-[<img align="left" src='icons/github.svg' alt='github' height='32'>](https://github.com/kazankovstas)
 
 <br />
 <br />
