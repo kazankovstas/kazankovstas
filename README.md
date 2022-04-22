@@ -27,7 +27,8 @@ I am a beginner frontend developer. I study at Yandex Practicum and HTML Academy
 
 <br />
 <br />
-###Learning:
+
+### Learning:
 <img align="left" alt="JavaScript" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
 
